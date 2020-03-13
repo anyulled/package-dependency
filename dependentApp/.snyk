@@ -38,3 +38,5 @@ patch:
         patched: '2020-03-13T19:07:29.519Z'
     - webpack-dev-server > chokidar > readdirp > micromatch > extglob > expand-brackets > snapdragon > debug:
         patched: '2020-03-13T19:07:29.519Z'
+    - snyk > proxy-agent > pac-proxy-agent > get-uri > debug:
+        patched: '2020-03-13T19:10:09.652Z'
