@@ -7,7 +7,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "webpack-dev-server --progress --color",
-    "build": "webpack --env.prod"
+    "build": "webpack --env.prod",
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
   },
   "author": "anyul rivas",
   "license": "ISC",
@@ -25,6 +27,8 @@
   "dependencies": {
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
-    "webpack-dev-server": "^3.1.11"
-  }
+    "webpack-dev-server": "^3.1.11",
+    "snyk": "^1.298.1"
+  },
+  "snyk": true
 }
