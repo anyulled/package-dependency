@@ -22,10 +22,11 @@
     "webpack": "^3.4.1"
   },
   "dependencies": {
-    "react": "^15.6.1",
-    "react-dom": "^15.6.1",
-    "webpack-dev-server": "^2.11.5",
+    "react": "^15.6.2",
+    "react-dom": "^15.6.2",
+    "webpack-dev-server": "^3.1.11"
     "snyk": "^1.298.1"
   },
-  "snyk": true
+  "snyk": true   
+       }
 }
