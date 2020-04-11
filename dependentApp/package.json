@@ -28,7 +28,7 @@
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
     "webpack-dev-server": "^3.1.11",
-    "snyk": "^1.299.0"
+    "snyk": "^1.300.0"
   },
   "snyk": true
 }
