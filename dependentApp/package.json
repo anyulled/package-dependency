@@ -21,7 +21,7 @@
     "chalk": "4.1.0",
     "clean-webpack-plugin": "3.0.0",
     "html-webpack-plugin": "4.5.0",
-    "webpack": "5.1.1",
+    "webpack": "5.1.2",
     "webpack-node-externals": "2.5.2"
   },
   "dependencies": {
