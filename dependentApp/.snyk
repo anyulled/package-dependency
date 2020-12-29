@@ -1,5 +1,5 @@
 # Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
-version: v1.14.1
+version: v1.19.0
 ignore: {}
 # patches apply the minimum changes required to fix a vulnerability
 patch:
@@ -40,3 +40,7 @@ patch:
         patched: '2020-03-13T19:07:29.519Z'
     - snyk > proxy-agent > pac-proxy-agent > get-uri > debug:
         patched: '2020-03-13T19:10:09.652Z'
+    - webpack-dev-server > chokidar > anymatch > micromatch > extglob > expand-brackets > debug:
+        patched: '2020-12-29T14:46:49.764Z'
+    - webpack-dev-server > chokidar > readdirp > micromatch > extglob > expand-brackets > debug:
+        patched: '2020-12-29T14:46:49.764Z'
