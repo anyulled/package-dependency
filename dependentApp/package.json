@@ -27,7 +27,7 @@
   "dependencies": {
     "react": "18.1.0",
     "react-dom": "18.1.0",
-    "webpack-dev-server": "4.9.0",
+    "webpack-dev-server": "4.9.1",
     "snyk": "1.945.0"
   },
   "snyk": true
