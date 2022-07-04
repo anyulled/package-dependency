@@ -28,7 +28,7 @@
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "webpack-dev-server": "4.9.3",
-    "snyk": "1.962.0"
+    "snyk": "1.963.0"
   },
   "snyk": true
 }
